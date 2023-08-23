@@ -1,0 +1,244 @@
+<mxfile host="app.diagrams.net" modified="2023-08-23T18:20:27.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SJajLtJEO1zFH99MmYaJ" version="21.6.8" type="device">
+  <diagram name="Страница — 1" id="ujK-rWD8hdxAi7CuLUnS">
+    <mxGraphModel dx="1247" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qrbity3PypiACk4_wuUC-1" value="Владелец" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=3;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="120" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-21" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-2" target="Qrbity3PypiACk4_wuUC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="320" as="targetPoint" />
+            <mxPoint x="120" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-2" value="Продавцы" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=3;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Flower Kiosk #dia1&lt;/b&gt;&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=320;height=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="500" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="160" />
+              <mxPoint x="560" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Учет товара&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Отметки прихода&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Отметки продаж&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Статистика продаж&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="160" as="sourcePoint" />
+            <mxPoint x="620" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="160" />
+              <mxPoint x="560" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-16" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#000000;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="160" />
+              <mxPoint x="560" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-19" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-1" target="Qrbity3PypiACk4_wuUC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="sourcePoint" />
+            <mxPoint x="200" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-22" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-2" target="Qrbity3PypiACk4_wuUC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="170" as="targetPoint" />
+            <mxPoint x="110" y="317" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-23" value="Покупатель" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=3;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-24" value="Поставщик" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fontStyle=3;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-25" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Резерв товара&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-26" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-2" target="Qrbity3PypiACk4_wuUC-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-27" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;curved=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-23" target="Qrbity3PypiACk4_wuUC-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="317" as="sourcePoint" />
+            <mxPoint x="380" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Статистика по поставщику&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-32" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-4" target="Qrbity3PypiACk4_wuUC-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="170" as="sourcePoint" />
+            <mxPoint x="630" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="160" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-34" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Use-Case&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="40" width="245" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-41" value="" style="hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.5;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;strokeWidth=3;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-35" target="Qrbity3PypiACk4_wuUC-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-35" value="Продавцы" style="shape=umlActor;verticalLabelPosition=top;verticalAlign=bottom;html=1;fontSize=16;fontStyle=3;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;rounded=1;labelPosition=center;align=center;sketch=1;curveFitting=1;jiggle=2;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1070" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-37" value="&lt;h1&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Sequence&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="304.38" y="920" width="245" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-39" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Отметки прихода&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="339.38" y="960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-44" value="запросить&lt;br&gt;список" style="hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=1.01;exitY=0.073;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=none;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-40" target="Qrbity3PypiACk4_wuUC-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="1385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-40" target="Qrbity3PypiACk4_wuUC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-40" value="&lt;pre&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Получить отметку товара &lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;из договора поставки&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1250" width="85" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-42" value="&lt;pre style=&quot;font-size: 20px;&quot;&gt;Получить список&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="235" y="1250" width="85" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-43" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 16px;&quot;&gt;Договор&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;поставки&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="1110" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-45" value="получить&lt;br&gt;список" style="hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0.01;exitY=0.852;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.849;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-42" target="Qrbity3PypiACk4_wuUC-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="1285" as="targetPoint" />
+            <mxPoint x="131" y="1280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-47" target="Qrbity3PypiACk4_wuUC-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-47" value="&lt;pre&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Принять товар&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1580" width="85" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-50" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Поставленный&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;товар&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="391.25" y="1450" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-51" value="&lt;pre style=&quot;font-size: 18px;&quot;&gt;Посмотреть товар&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1560" width="42.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-52" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;entryX=-0.001;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.979;exitY=0.048;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-47" target="Qrbity3PypiACk4_wuUC-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88" y="1530" as="sourcePoint" />
+            <mxPoint x="88" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-53" value="&lt;pre style=&quot;font-size: 14px;&quot;&gt;Соответствие &lt;/pre&gt;&lt;pre style=&quot;font-size: 14px;&quot;&gt;списку&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250.63" y="1640" width="53.75" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-54" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;entryX=1.047;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.083;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-51" target="Qrbity3PypiACk4_wuUC-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="128" y="1608" as="sourcePoint" />
+            <mxPoint x="450" y="1604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-55" value="&lt;pre style=&quot;font-size: 18px;&quot;&gt;Товар соответствует&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1760" width="42.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-56" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;strokeWidth=2;entryX=-0.042;entryY=0.159;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.047;exitY=0.886;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-53" target="Qrbity3PypiACk4_wuUC-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446" y="1677" as="sourcePoint" />
+            <mxPoint x="317" y="1679" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-57" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Книга учета&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="541.25" y="1890" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-58" target="Qrbity3PypiACk4_wuUC-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-58" value="&lt;pre&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Внести запись &lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;в книгу учета&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="35" y="2000" width="85" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-60" value="&lt;pre style=&quot;font-size: 18px;&quot;&gt;Товар соответствует&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="590" y="2000" width="42.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-61" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=1.02;exitY=0.158;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.093;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-58" target="Qrbity3PypiACk4_wuUC-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="2130" as="sourcePoint" />
+            <mxPoint x="350" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-62" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.02;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-60" target="Qrbity3PypiACk4_wuUC-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="133" y="2049" as="sourcePoint" />
+            <mxPoint x="599" y="2048" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-63" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-42" target="Qrbity3PypiACk4_wuUC-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="1440" as="sourcePoint" />
+            <mxPoint x="350" y="1390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-64" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-51" target="Qrbity3PypiACk4_wuUC-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="1610" as="sourcePoint" />
+            <mxPoint x="540" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-65" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qrbity3PypiACk4_wuUC-60" target="Qrbity3PypiACk4_wuUC-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="2020" as="sourcePoint" />
+            <mxPoint x="710" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrbity3PypiACk4_wuUC-66" value="конец&lt;br&gt;действия" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
+          <mxGeometry x="63" y="2450" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
